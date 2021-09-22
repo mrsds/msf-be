@@ -1,0 +1,98 @@
+[
+    {
+        "sector": "Oil and Gas Wells",
+        "unique_facilities_flown_over": 99029,
+        "facilities": 111610,
+        "unique_facilities_with_plumes": 5299,
+        "num_plumes_detected": 28767,
+        "facility_flyovers": 540402
+    },
+    {
+        "sector": "Power Plants",
+        "unique_facilities_flown_over": 622,
+        "facilities": 3408,
+        "unique_facilities_with_plumes": 68,
+        "num_plumes_detected": 352,
+        "facility_flyovers": 2560
+    },
+    {
+        "sector": "NG Pipelines",
+        "unique_facilities_flown_over": 1143,
+        "facilities": 3240,
+        "unique_facilities_with_plumes": 463,
+        "num_plumes_detected": 37413,
+        "facility_flyovers": 20507
+    },
+    {
+        "sector": "Livestock Infrastructures -- Dairy",
+        "unique_facilities_flown_over": 869,
+        "facilities": 1768,
+        "unique_facilities_with_plumes": 42,
+        "num_plumes_detected": 133,
+        "facility_flyovers": 3073
+    },
+    {
+        "sector": "NG Compressor Stations",
+        "unique_facilities_flown_over": 276,
+        "facilities": 1120,
+        "unique_facilities_with_plumes": 34,
+        "num_plumes_detected": 246,
+        "facility_flyovers": 1211
+    },
+    {
+        "sector": "Landfills",
+        "unique_facilities_flown_over": 188,
+        "facilities": 696,
+        "unique_facilities_with_plumes": 41,
+        "num_plumes_detected": 626,
+        "facility_flyovers": 836
+    },
+    {
+        "sector": "Wastewater Treatments Plants",
+        "unique_facilities_flown_over": 62,
+        "facilities": 304,
+        "unique_facilities_with_plumes": 4,
+        "num_plumes_detected": 10,
+        "facility_flyovers": 264
+    },
+    {
+        "sector": "CNG fueling stations",
+        "unique_facilities_flown_over": 64,
+        "facilities": 89,
+        "unique_facilities_with_plumes": 3,
+        "num_plumes_detected": 11,
+        "facility_flyovers": 256
+    },
+    {
+        "sector": "Petroleum Refineries",
+        "unique_facilities_flown_over": 44,
+        "facilities": 52,
+        "unique_facilities_with_plumes": 30,
+        "num_plumes_detected": 514,
+        "facility_flyovers": 582
+    },
+    {
+        "sector": "LNG Fueling Stations",
+        "unique_facilities_flown_over": 18,
+        "facilities": 46,
+        "unique_facilities_with_plumes": 2,
+        "num_plumes_detected": 8,
+        "facility_flyovers": 87
+    },
+    {
+        "sector": "NG Processing Plants",
+        "unique_facilities_flown_over": 19,
+        "facilities": 26,
+        "unique_facilities_with_plumes": 8,
+        "num_plumes_detected": 33,
+        "facility_flyovers": 55
+    },
+    {
+        "sector": "NG Storage Fields",
+        "unique_facilities_flown_over": 10,
+        "facilities": 14,
+        "unique_facilities_with_plumes": 5,
+        "num_plumes_detected": 317,
+        "facility_flyovers": 184
+    }
+]
